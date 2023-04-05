@@ -13,3 +13,5 @@ El repositorio incluye los siguientes elementos:
 - Carpeta "Proyectos de Detección": Aquí encontrarás proyectos enfocados en la detección de objetos en imágenes y videos utilizando técnicas de Deep Learning, como Faster R-CNN y YOLOv7. Estos proyectos incluyen la implementación de modelos de detección, entrenamiento de los mismos y evaluación del rendimiento.
 
 - Carpeta "Proyectos de Segmentación": En esta carpeta encontrarás un proyecto enfocado en la segmentación de imágenes, que incluyen la separación de objetos y fondo en imágenes utilizando la técnica de Deep Learning, YOLOv7. Este proyecto incluyen la implementación del modelo de segmentación y entrenamiento del mismo.
+
+- Carpeta comprimida "CVwDL_20231": En esta carpeta se encuentran los archivos de drive a los que se hace referencia en los cuadernos, para poder correrse sin cambiar nada en el código, esta carpeta debe estar descomprimida directamente en la unidad de Google Drive.
