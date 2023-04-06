@@ -14,4 +14,4 @@ El repositorio incluye los siguientes elementos:
 
 - Carpeta "Proyectos de Segmentación": En esta carpeta encontrarás un proyecto enfocado en la segmentación de imágenes, que incluyen la separación de objetos y fondo en imágenes utilizando la técnica de Deep Learning, YOLOv7. Este proyecto incluyen la implementación del modelo de segmentación y entrenamiento del mismo.
 
-- Carpeta comprimida "CVwDL_20231": En esta carpeta se encuentran los archivos de drive a los que se hace referencia en los cuadernos, para poder correrse sin cambiar nada en el código, esta carpeta debe estar descomprimida directamente en la unidad de Google Drive.
+- Carpeta comprimida "CVwDL_20231": En esta carpeta se encuentran los archivos de drive a los que se hace referencia para las pruebas de los algoritmos de los cuadernos ("Proyecto Clasificación/CVwDL_Laboratorio1_2023_1.ipynb" y "Proyectos de Detección/ProyectoFinal/CVwDL_Proyect.ipynb"), para poder correrse sin cambiar nada en el código, esta carpeta debe estar descomprimida directamente en la unidad de Google Drive con el nombre "CVwDL_20231".
