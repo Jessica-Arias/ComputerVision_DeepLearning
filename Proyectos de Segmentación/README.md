@@ -4,5 +4,10 @@ Este proyecto es una implementación de segmentación de imágenes de tigres uti
 
 El dataset se encuentra en un archivo .zip que se encuentra dentro de esta carpeta. El archivo .zip se descomprime dentro del mismo código usado. El dataset contiene imágenes de tigres con sus respectivas etiquetas de segmentación.
 
+## Requerimientos
+
+Este proyecto se realizó en Google Colab, por lo que se necesita una cuenta de Google y un acceso a Google Colab para poder ejecutar el código
+
+
 ## Créditos
 El dataset utilizado en este proyecto fue creado en Roboflow.
