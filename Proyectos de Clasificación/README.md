@@ -4,6 +4,11 @@ Este proyecto es una implementación de clasificación de imágenes de lenguaje 
 
 El proyecto consistió en la creación de un dataset a partir de la clonación del repositorio Sign Language Digits Dataset de Arda Mavi (https://github.com/ardamavi/Sign-Language-Digits-Dataset.git), la visualización y preprocesamiento de los datos, la implementación de clasificadores utilizando diferentes técnicas de aprendizaje profundo y la realización de pruebas para validar los modelos.
 
+## Requerimientos
+
+Este proyecto se realizó en Google Colab, por lo que se necesita una cuenta de Google y un acceso a Google Colab para poder ejecutar el código
+
+
 ## Métodos de Clasificación
 
 - **Método Tradicional:** se utilizan detectores/descriptores, BoVW y ANN´s para clasificar las imágenes de números en lenguaje de señas.
